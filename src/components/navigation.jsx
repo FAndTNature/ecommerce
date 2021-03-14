@@ -1,3 +1,4 @@
+import {  Image } from "react-bootstrap"
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,7 +16,10 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
+          
           <a className='navbar-brand page-scroll' href='#page-top'>
+          
+          <Image src='./intro-bg.jpg' alt="logo" fluid rounded></Image>
             F&T Nature
           </a>{' '}
         </div>
