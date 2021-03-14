@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FandT-v2.0/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/FandT-v2.0/static/js/main.3bdf00a6.chunk.js",
+    "main.js.map": "/FandT-v2.0/static/js/main.3bdf00a6.chunk.js.map",
+    "runtime-main.js": "/FandT-v2.0/static/js/runtime-main.cee93377.js",
+    "runtime-main.js.map": "/FandT-v2.0/static/js/runtime-main.cee93377.js.map",
+    "static/js/2.b80d2c6e.chunk.js": "/FandT-v2.0/static/js/2.b80d2c6e.chunk.js",
+    "static/js/2.b80d2c6e.chunk.js.map": "/FandT-v2.0/static/js/2.b80d2c6e.chunk.js.map",
+    "index.html": "/FandT-v2.0/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/FandT-v2.0/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b80d2c6e.chunk.js.LICENSE.txt": "/FandT-v2.0/static/js/2.b80d2c6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cee93377.js",
+    "static/js/2.b80d2c6e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3bdf00a6.chunk.js"
+  ]
+}
